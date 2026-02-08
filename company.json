@@ -1,0 +1,122 @@
+[
+  {
+    "key": 1,
+    "company": "FACEBOOK",
+    "pic":"https://i.pinimg.com/736x/34/e0/a7/34e0a74590dd473c630d7cdfa41147a7.jpg",
+    "industry": "Technology",
+    "founded": 2004,
+    "founder": "Mark Zuckerberg",
+    "city": "Menlo Park",
+    "state": "California",
+    "country": "United States",
+    "description": "Facebook is a social media company that allows people to connect, share content, and communicate globally through online platforms."
+  },
+  {
+    "key": 2,
+    "company": "MICROSOFT",
+    "pic":"https://i.pinimg.com/736x/d2/45/cf/d245cfc057a7802a6c94dc5f433d4635.jpg",
+    "industry": "Technology",
+    "founded": 1975,
+    "founder": "Bill Gates",
+    "city": "Redmond",
+    "state": "Washington",
+    "country": "United States",
+    "description": "Microsoft develops software, hardware, and cloud services, best known for Windows, Office, and its enterprise technology solutions."
+  },
+  {
+    "key": 3,
+    "company": "GOOGLE",
+    "pic":"https://i.pinimg.com/1200x/7c/de/1c/7cde1c91a38e3c69e5c463ef0ad05536.jpg",
+    "industry": "Technology",
+    "founded": 1998,
+    "founder": "Larry Page",
+    "city": "Mountain View",
+    "state": "California",
+    "country": "United States",
+    "description": "Google specializes in internet-related services and products, including search engines, online advertising, cloud computing, and AI technologies."
+  },
+  {
+    "key": 4,
+    "company": "ORACLE",
+    "pic":"https://i.pinimg.com/736x/eb/ed/08/ebed085d158dd96f36dc75da085776e5.jpg",
+    "industry": "Technology",
+    "founded": 1977,
+    "founder": "Larry Ellison",
+    "city": "Austin",
+    "state": "Texas",
+    "country": "United States",
+    "description": "Oracle is a multinational technology company known for database software, cloud infrastructure, and enterprise business solutions."
+  },
+  {
+    "key": 5,
+    "company": "NVIDIA",
+    "pic":"https://i.pinimg.com/736x/93/cf/c7/93cfc762c673e2cbe68db5a6c675ed7a.jpg",
+    "industry": "Technology",
+    "founded": 1993,
+    "founder": "Jensen Huang",
+    "city": "Santa Clara",
+    "state": "California",
+    "country": "United States",
+    "description": "Nvidia designs graphics processing units and AI computing technologies used in gaming, data centers, and artificial intelligence."
+  },
+  {
+    "key": 6,
+    "company": "IBM",
+    "pic":"https://i.pinimg.com/736x/c5/45/02/c54502e6f552c3693e837a92bf18e042.jpg",
+    "industry": "Technology",
+    "founded": 1911,
+    "founder": "Charles Ranlett Flint",
+    "city": "Armonk",
+    "state": "New York",
+    "country": "United States",
+    "description": "IBM provides enterprise technology solutions including cloud computing, artificial intelligence, consulting, and IT infrastructure services."
+  },
+  {
+    "key": 7,
+    "company": "TESLA",
+    "pic":"https://i.pinimg.com/736x/6a/3a/06/6a3a06a576e2af4f2c671c105515f6d9.jpg",
+    "industry": "Automotive & Technology",
+    "founded": 2003,
+    "founder": "Martin Eberhard",
+    "city": "Austin",
+    "state": "Texas",
+    "country": "United States",
+    "description": "Tesla is an electric vehicle and clean energy company focused on sustainable transportation and renewable energy solutions."
+  },
+  {
+    "key": 8,
+    "company": "APPLE",
+    "pic":"https://i.pinimg.com/736x/88/54/02/885402332d4f7441a9b07f45b02ef499.jpg",
+    "industry": "Technology",
+    "founded": 1976,
+    "founder": "Steve Jobs",
+    "city": "Cupertino",
+    "state": "California",
+    "country": "United States",
+    "description": "Apple designs consumer electronics, software, and digital services, known for innovative products like the iPhone, Mac, and iOS ecosystem."
+  },
+  {
+    "key": 9,
+    "company": "AMAZON",
+    "pic":"https://i.pinimg.com/736x/61/ac/54/61ac540d84604d0486669f358bc858aa.jpg",
+    "industry": "E-commerce & Technology",
+    "founded": 1994,
+    "founder": "Jeff Bezos",
+    "city": "Seattle",
+    "state": "Washington",
+    "country": "United States",
+    "description": "Amazon is a global e-commerce and technology company offering online retail, cloud computing services, and digital streaming platforms."
+  },
+  {
+    "key": 10,
+    "company": "FLIPKART",
+    "pic":"https://i.pinimg.com/736x/c7/9c/f6/c79cf6ecf2f515d7d7b6a2d90543079e.jpg",
+    "industry": "E-commerce",
+    "founded": 2007,
+    "founder": "Sachin Bansal",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "description": "Flipkart is a leading Indian e-commerce company providing online retail services across electronics, fashion, and household products."
+  }
+]
