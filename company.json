@@ -118,5 +118,66 @@
     "state": "Karnataka",
     "country": "India",
     "description": "Flipkart is a leading Indian e-commerce company providing online retail services across electronics, fashion, and household products."
-  }
+  },
+  {
+    "key": 11,
+    "company": "OPENAI",
+    "pic": "https://i.pinimg.com/736x/5b/f5/fe/5bf5feb7d051673b64523feec8166077.jpg",
+    "industry": "Artificial Intelligence",
+    "founded": 2015,
+    "founder": "Sam Altman",
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "description": "OpenAI is an artificial intelligence research organization focused on developing safe and beneficial AI technologies for humanity."
+  },
+  {
+    "key": 12,
+    "company": "RELIANCE",
+    "pic": "https://i.pinimg.com/736x/60/ec/75/60ec752cdab6436b4dc3a7ab9a68d780.jpg",
+    "industry": "Conglomerate",
+    "founded": 1966,
+    "founder": "Dhirubhai Ambani",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "country": "India",
+    "description": "Reliance is an Indian multinational conglomerate operating across energy, retail, telecommunications, and digital services."
+  },
+  {
+    "key": 13,
+    "company": "AIRTEL",
+    "pic": "https://i.pinimg.com/736x/37/14/a4/3714a4a21bdc202278b1d87004797fea.jpg",
+    "industry": "Telecommunications",
+    "founded": 1995,
+    "founder": "Sunil Bharti Mittal",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "description": "Airtel is a leading global telecommunications company providing mobile, broadband, and digital TV services."
+  },
+  {
+    "key": 14,
+    "company": "JIO",
+    "pic": "https://i.pinimg.com/736x/60/ec/75/60ec752cdab6436b4dc3a7ab9a68d780.jpg",
+    "industry": "Telecommunications",
+    "founded": 2016,
+    "founder": "Mukesh Ambani",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "country": "India",
+    "description": "Jio is an Indian telecom company offering high-speed internet, mobile connectivity, and digital ecosystem services."
+  },
+  {
+  "key": 15,
+  "company": "SPACEX",
+  "pic": "https://i.pinimg.com/1200x/88/94/52/8894528940b3d7eb88a241e3c34f4e25.jpg",
+  "industry": "Aerospace",
+  "founded": 2002,
+  "founder": "Elon Musk",
+  "city": "Hawthorne",
+  "state": "California",
+  "country": "United States",
+  "description": "SpaceX is an aerospace company focused on developing reusable rockets and spacecraft to enable affordable space travel."
+}
 ]
+
