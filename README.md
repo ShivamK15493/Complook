@@ -1,4 +1,4 @@
-<h1>Project Description</h1>
+<h1>PROJECT DESCRIPTION</h1>
 Complook is a lightweight web application built using HTML, CSS,
 and JavaScript that allows users to search for companies and instantly view their
 key details.All company data is stored locally in JSON format, making the project
