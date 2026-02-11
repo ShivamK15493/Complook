@@ -178,6 +178,43 @@
   "state": "California",
   "country": "United States",
   "description": "SpaceX is an aerospace company focused on developing reusable rockets and spacecraft to enable affordable space travel."
-}
+ },
+  {
+    "key": 16,
+    "company": "MERCEDES",
+    "pic": "https://i.pinimg.com/1200x/3e/d8/8f/3ed88f220ee9bb01fd0897811f8662e1.jpg",
+    "industry": "Automotive",
+    "founded": 1926,
+    "founder": "Karl Benz",
+    "city": "Stuttgart",
+    "state": "Baden-Württemberg",
+    "country": "Germany",
+    "description": "Mercedes-Benz Group is a German multinational automotive company that designs, manufactures, and sells luxury vehicles, commercial vehicles, and mobility services worldwide."
+  },
+  {
+    "key": 17,
+    "company": "TATA",
+    "pic": "https://i.pinimg.com/736x/4a/b3/5c/4ab35cd4e1f30f00b69a51402430ad14.jpg",
+    "industry": "Conglomerate",
+    "founded": 1868,
+    "founder": "Jamsetji Tata",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "country": "India",
+    "description": "Tata Group is an Indian multinational conglomerate operating in industries such as steel, automotive, information technology, telecommunications, energy, and consumer goods globally."
+  },
+  {
+    "key": 18,
+    "company": "TENCENT",
+    "pic": "https://i.pinimg.com/736x/e3/1d/15/e31d15710fd88042a7895f42c6fe0807.jpg",
+    "industry": "Technology",
+    "founded": 1998,
+    "founder": "Ma Huateng",
+    "city": "Shenzhen",
+    "state": "Guangdong",
+    "country": "China",
+    "description": "Tencent is a Chinese multinational technology corporation providing social networking, digital entertainment, gaming, cloud computing, and financial technology services worldwide."
+  }
 ]
+
 
