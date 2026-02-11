@@ -4,14 +4,14 @@ body
 }
 input
 {
-    width: 40rem;
-    height: 2.1rem;
+    width: 42rem;
+    height: 2.2rem;
     border: 0.01rem solid grey;
 }
 button
 {
     width: 5rem;
-    height: 2.2rem;
+    height: 2.4rem;
     cursor: pointer;
     background-color: aqua;
     border: none;
@@ -93,4 +93,5 @@ button:hover
     align-items: center;
     justify-content: center;
     cursor: pointer;
+
 }
