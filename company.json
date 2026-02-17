@@ -214,7 +214,56 @@
     "state": "Guangdong",
     "country": "China",
     "description": "Tencent is a Chinese multinational technology corporation providing social networking, digital entertainment, gaming, cloud computing, and financial technology services worldwide."
+  },
+  {
+    "key": 19,
+    "company": "LINKEDIN",
+    "pic": "https://i.pinimg.com/736x/b6/0f/88/b60f881a4b1e40ed017aa84f38096914.jpg",
+    "industry": "Technology",
+    "founded": 2002,
+    "founder": "Reid Hoffman",
+    "city": "Sunnyvale",
+    "state": "California",
+    "country": "United States",
+    "description": "LinkedIn is a professional networking and career development platform that allows users to connect with colleagues, share professional content, and search for jobs. It is owned by Microsoft."
+  },
+  {
+    "key": 20,
+    "company": "YOUTUBE",
+    "pic": "https://i.pinimg.com/736x/d6/c8/cd/d6c8cdc7f8e6ec2a086f9560ec9dd7d6.jpg",
+    "industry": "Technology",
+    "founded": 2005,
+    "founder": "Jawed Karim",
+    "city": "San Bruno",
+    "state": "California",
+    "country": "United States",
+    "description": "YouTube is an online video-sharing and social media platform where users can upload, watch, and share videos. It is owned by Google (Alphabet Inc.)."
+  },
+  {
+    "key": 21,
+    "company": "TELEGRAM",
+    "pic": "https://i.pinimg.com/736x/58/fa/0e/58fa0e015b5435bd4bf0f6a7b9d45cd3.jpg",
+    "industry": "Technology",
+    "founded": 2013,
+    "founder": "Pavel Durov",
+    "city": "Dubai",
+    "state": "Dubai",
+    "country": "United Arab Emirates",
+    "description": "Telegram is a cloud-based instant messaging platform known for its speed, security, and end-to-end encrypted communication features."
+  },
+  {
+    "key": 22,
+    "company": "SNAPCHAT",
+    "pic": "https://i.pinimg.com/1200x/44/46/2b/44462bc156563b7dbd62673b56aa0559.jpg",
+    "industry": "Technology",
+    "founded": 2011,
+    "founder": "Evan Spiegel",
+    "city": "Santa Monica",
+    "state": "California",
+    "country": "United States",
+    "description": "Snapchat is a multimedia messaging application that allows users to send photos and videos that disappear after being viewed. It is developed by Snap Inc."
   }
 ]
+
 
 
