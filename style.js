@@ -61,22 +61,23 @@ async function getFacts()
 
             
 
-            person.innerHTML=`<img src="${data[i].pic}" width="330px" height="440px" alt="Internet error">`;
+            person.innerHTML=`<div id="prof"><img src="${data[i].pic}" width="330px" height="440px" alt="Internet error">
+            </div`;
             information.innerHTML=`<div id="comp">${data[i].company}</div>
            <hr>
            <div id="ffont"><b>Description:</b> ${descp}</div>
            <hr>
-           <div><b>Industry:</b> ${industr}</div>
+           <div id="contentfont"><b>Industry:</b> ${industr}</div>
            <hr>
-           <div><b>Founded:</b> ${foundYear}</div>
+           <div id="contentfont"><b>Founded:</b> ${foundYear}</div>
            <hr>
-           <div><b>Founder:</b> ${creator}</div>
+           <div id="contentfont"><b>Founder:</b> ${creator}</div>
            <hr>
-           <div><b>City:</b> ${City}</div>
+           <div id="contentfont"><b>City:</b> ${City}</div>
            <hr>
-           <div><b>State:</b> ${State}</div>
+           <div id="contentfont"><b>State:</b> ${State}</div>
            <hr>
-           <div><b>Country:</b> ${Country}</div>
+           <div id="contentfont"><b>Country:</b> ${Country}</div>
            `;
         }
     }
