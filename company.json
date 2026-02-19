@@ -262,8 +262,69 @@
     "state": "California",
     "country": "United States",
     "description": "Snapchat is a multimedia messaging application that allows users to send photos and videos that disappear after being viewed. It is developed by Snap Inc."
+  },
+  {
+    "key": 23,
+    "company": "ZOMATO",
+    "pic": "https://i.pinimg.com/736x/cf/5c/ac/cf5cac6cee436f31c8a4d535d65e1528.jpg",
+    "industry": "Food Delivery & Restaurant Aggregator",
+    "founded": 2008,
+    "founder": "Deepinder Goyal",
+    "city": "Gurugram",
+    "state": "Haryana",
+    "country": "India",
+    "description": "Zomato is an Indian multinational food delivery and restaurant discovery platform that allows users to search for restaurants, read reviews, and order food online."
+  },
+  {
+    "key": 24,
+    "company": "WIPRO",
+    "pic": "https://i.pinimg.com/736x/dd/c2/07/ddc207d67f335b25abb6d9d1b7228176.jpg",
+    "industry": "Information Technology",
+    "founded": 1945,
+    "founder": "Azim Premji",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "description": "Wipro is an Indian multinational corporation that provides information technology, consulting, and business process services to clients globally."
+  },
+  {
+    "key": 25,
+    "company": "SAMSUNG",
+    "pic": "https://i.pinimg.com/1200x/c8/db/34/c8db34500cca1bbf5771f95c3ba0ee6a.jpg",
+    "industry": "Conglomerate",
+    "founded": 1938,
+    "founder": "Lee Byung-chul",
+    "city": "Seoul",
+    "state": "Seoul",
+    "country": "South Korea",
+    "description": "Samsung is a South Korean multinational conglomerate known globally for its electronics products, including smartphones, televisions, semiconductors, and home appliances."
+  },
+  {
+    "key": 26,
+    "company": "PERPLEXITY",
+    "pic": "https://i.pinimg.com/736x/23/90/fe/2390fefc86b428dcc293eba2ecaa89bb.jpg",
+    "industry": "Artificial Intelligence & Search Engine",
+    "founded": 2022,
+    "founder": "Aravind Srinivas",
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "description": "Perplexity is an AI-powered search engine company that provides conversational answers to user queries using large language models and real-time web data."
+  },
+  {
+    "key": 27,
+    "company": "NEURALINK",
+    "pic": "https://i.pinimg.com/1200x/88/94/52/8894528940b3d7eb88a241e3c34f4e25.jpg",
+    "industry": "Neurotechnology",
+    "founded": 2016,
+    "founder": "Elon Musk",
+    "city": "Fremont",
+    "state": "California",
+    "country": "United States",
+    "description": "Neuralink is a neurotechnology company developing implantable brain–computer interfaces intended to help treat neurological conditions and enable direct communication between the human brain and computers."
   }
 ]
+
 
 
 
