@@ -1,8 +1,7 @@
-// Development in Progress
 
 let result = document.getElementById("output");
-let compName;                    // FIX
-let compani;                     // FIX
+let compName;                    
+let compani;                     
 let person = document.getElementById("official");
 let information = document.getElementById("info");
 let descrip;
@@ -30,8 +29,8 @@ information.hidden = true;
 
 async function getFacts()
 {
-    compName = document.getElementById("inp1").value; // FIX
-    compani = compName.trim().toUpperCase();  
+    compName = document.getElementById("inp1").value; // Comp name entered by the user
+    compani = compName.trim().toUpperCase();       // Upper Case
 
     let response = await fetch(URL);
     // console.log(response);
@@ -61,7 +60,7 @@ async function getFacts()
 
             
 
-            person.innerHTML=`<div id="prof"><img src="${data[i].pic}" width="330px" height="440px" alt="Internet error">
+            person.innerHTML=`<div><img id="prof" src="${data[i].pic}" alt="Internet error">
             </div`;
             information.innerHTML=`<div id="comp">${data[i].company}</div>
            <hr>
