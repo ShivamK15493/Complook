@@ -42,7 +42,7 @@ button:hover
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    gap: 1rem;
+    gap: 3rem;
 }
 .sec1
 {
@@ -53,6 +53,11 @@ button:hover
     border: 0.01rem solid #ddd;
     border-radius: 0.3rem;
     box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
+}
+#prof
+{
+    width: 16.5rem;
+    height: 22.2rem;
 }
 .sec2
 {
@@ -80,14 +85,15 @@ button:hover
 }
 @media screen and (max-width: 700px) {
 
-    #prof img{
-        width: 300px;
-        height: 400px;
-    }
     .sec1
     {
         width: 16rem;
-        height: 21rem;
+        height: 20.6rem;
+    }
+    #prof
+    {
+        width: 15rem;
+        height: 20rem;
     }
     #comp
     {
@@ -97,6 +103,10 @@ button:hover
     #contentfont
     {
         font-size: 0.8rem;
+    }
+    input
+    {
+        width: 15rem;
     }  
 }
 #recheck
