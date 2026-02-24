@@ -12,8 +12,6 @@ URL = "company.json";
 
 person.hidden = true;
 information.hidden = true;
-// https://randomuser.me/api/?results=100  . It generates random Users Profile
-// https://api.thecompaniesapi.com/v1/companies/microsoft.com
 
 // 1. Mark Zuckerberg https://i.pinimg.com/736x/34/e0/a7/34e0a74590dd473c630d7cdfa41147a7.jpg
 // 2. Bill Gates https://i.pinimg.com/736x/d2/45/cf/d245cfc057a7802a6c94dc5f433d4635.jpg
@@ -33,12 +31,10 @@ async function getFacts()
     compani = compName.trim().toUpperCase();       // Upper Case
 
     let response = await fetch(URL);
-    // console.log(response);
     let data = await response.json();
   
     for(i=0;i<data.length;i++)
     {
-      //  console.log(data[i]);
 
         if(compani === "" || data[i].company !== compani)
         {
@@ -81,4 +77,5 @@ async function getFacts()
         }
     }
 }
+
 
