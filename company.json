@@ -322,8 +322,81 @@
     "state": "California",
     "country": "United States",
     "description": "Neuralink is a neurotechnology company developing implantable brain–computer interfaces intended to help treat neurological conditions and enable direct communication between the human brain and computers."
+  },
+  {
+    "key": 28,
+    "company": "UBER",
+    "pic": "https://i.pinimg.com/1200x/63/27/02/632702783606ea3a19d599e87aa3bc1e.jpg",
+    "industry": "Transportation & Mobility Technology",
+    "founded": 2009,
+    "founder": "Travis Kalanick",
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "description": "Uber Technologies Inc. is a global mobility company that provides ride-hailing, food delivery (Uber Eats), freight transport, and logistics services through its digital platform."
+  },
+  {
+    "key": 29,
+    "company": "NETFLIX",
+    "pic": "https://i.pinimg.com/736x/dd/38/0a/dd380af7662d540fab2a663e477df7a3.jpg",
+    "industry": "Entertainment & Streaming Media",
+    "founded": 1997,
+    "founder": "Reed Hastings",
+    "city": "Los Gatos",
+    "state": "California",
+    "country": "United States",
+    "description": "Netflix Inc. is a subscription-based streaming service that offers online streaming of films, television series, documentaries, and original content worldwide."
+  },
+  {
+    "key": 30,
+    "company": "TWITTER",
+    "pic": "https://i.pinimg.com/1200x/29/d2/9f/29d29fec87f1b8d061c1c3cac780c5fe.jpg",
+    "industry": "Social Media & Technology",
+    "founded": 2006,
+    "founder": "Jack Dorsey",
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "description": "Twitter, now rebranded as X and owned by X Corp., is a social networking platform that enables users to post and interact with short messages known as posts."
+  },
+  {
+    "key": 31,
+    "company": "AIRBNB",
+    "pic": "https://i.pinimg.com/1200x/50/c8/c5/50c8c59ae46244c3ce2903c7c3791662.jpg",
+    "industry": "Hospitality & Online Marketplace",
+    "founded": 2008,
+    "founder": "Brian Chesky",
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "description": "Airbnb Inc. is an online marketplace that connects people who want to rent out their homes with people looking for accommodations, experiences, and tourism services."
+  },
+  {
+    "key": 32,
+    "company": "ZOOM",
+    "pic": "https://i.pinimg.com/1200x/4a/80/e7/4a80e74487d3331b11f567ee61156e0f.jpg",
+    "industry": "Video Communications Technology",
+    "founded": 2011,
+    "founder": "Eric Yuan",
+    "city": "San Jose",
+    "state": "California",
+    "country": "United States",
+    "description": "Zoom Video Communications Inc. provides video conferencing, online meetings, chat, and mobile collaboration services through its cloud-based platform."
+  },
+  {
+    "key": 33,
+    "company": "SPOTIFY",
+    "pic": "https://i.pinimg.com/736x/36/67/fc/3667fc7d855133d752426db3d1bc49be.jpg",
+    "industry": "Music Streaming & Audio Services",
+    "founded": 2006,
+    "founder": "Daniel Ek",
+    "city": "Stockholm",
+    "state": "Stockholm County",
+    "country": "Sweden",
+    "description": "Spotify Technology S.A. is a digital music, podcast, and audiobook streaming service that provides access to millions of songs and audio content globally."
   }
 ]
+
 
 
 
