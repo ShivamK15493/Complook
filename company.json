@@ -394,6 +394,42 @@
     "state": "Stockholm County",
     "country": "Sweden",
     "description": "Spotify Technology S.A. is a digital music, podcast, and audiobook streaming service that provides access to millions of songs and audio content globally."
+  },
+  {
+    "key": 34,
+    "company": "INTEL",
+    "pic": "https://i.pinimg.com/1200x/06/64/64/066464f179aad250f4488f488b6cc00c.jpg",
+    "industry": "Semiconductors & Technology",
+    "founded": 1968,
+    "founder": "Gordon Moore",
+    "city": "Santa Clara",
+    "state": "California",
+    "country": "United States",
+    "description": "Intel Corporation is a global technology company known for designing and manufacturing microprocessors, semiconductor chips, and other computing hardware used in personal computers, servers, and data centers."
+  },
+  {
+    "key": 35,
+    "company": "PAYPAL",
+    "pic": "https://i.pinimg.com/736x/f2/28/a6/f228a69df3f39fc6c32f9025beea93de.jpg",
+    "industry": "Financial Technology (FinTech)",
+    "founded": 1998,
+    "founder": "Peter Thiel",
+    "city": "San Jose",
+    "state": "California",
+    "country": "United States",
+    "description": "PayPal Holdings, Inc. is an online payments system that supports money transfers and serves as an electronic alternative to traditional paper methods like checks and money orders."
+  },
+  {
+    "key": 36,
+    "company": "NIKE",
+    "pic": "https://i.pinimg.com/736x/71/ab/95/71ab956c180be883af99bfe98efbcdfb.jpg",
+    "industry": "Sportswear & Apparel",
+    "founded": 1964,
+    "founder": "Phil Knight",
+    "city": "Beaverton",
+    "state": "Oregon",
+    "country": "United States",
+    "description": "Nike, Inc. is a multinational corporation engaged in the design, development, manufacturing, and marketing of footwear, apparel, equipment, and accessories for sports and fitness."
   }
 ]
 
