@@ -466,6 +466,54 @@
     "state": "Haryana",
     "country": "India",
     "description": "OYO is a global hospitality company that offers affordable and standardized hotel accommodations through its network of partner properties."
+  },
+  {
+    "key": 40,
+    "company": "INSTAGRAM",
+    "pic": "https://i.pinimg.com/736x/b0/47/90/b04790890197606aab1987c913254a17.jpg",
+    "industry": "Technology",
+    "founded": 2010,
+    "founder": "Kevin Systrom",
+    "city": "Menlo Park",
+    "state": "California",
+    "country": "United States",
+    "description": "Instagram is a social media platform focused on photo and video sharing, allowing users to connect, create content, and engage with communities."
+  },
+  {
+    "key": 41,
+    "company": "ZEPTO",
+    "pic": "https://i.pinimg.com/736x/a8/62/12/a86212ddbafa502c66823a1a3eea2eb6.jpg",
+    "industry": "Quick Commerce",
+    "founded": 2021,
+    "founder": "Aadit Palicha",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "country": "India",
+    "description": "Zepto is an Indian quick commerce startup that delivers groceries and daily essentials in minutes through its network of dark stores."
+  },
+  {
+    "key": 42,
+    "company": "GROK",
+    "pic": "https://i.pinimg.com/736x/31/e7/41/31e741e4c7776682ec8f659536def868.jpg",
+    "industry": "Artificial Intelligence",
+    "founded": 2023,
+    "founder": "Elon Musk",
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "description": "Grok is an AI chatbot developed by xAI, designed to provide conversational responses with real-time data access and a humorous personality."
+  },
+  {
+    "key": 43,
+    "company": "GITHUB",
+    "pic": "https://i.pinimg.com/736x/f7/a4/80/f7a480badbad18d8edc525c249f76883.jpg",
+    "industry": "Software Development",
+    "founded": 2008,
+    "founder": "Chris Wanstrath",
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "description": "GitHub is a platform for version control and collaboration that allows developers to host, manage, and review code using Git."
   }
 ]
 
