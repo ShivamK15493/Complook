@@ -12,6 +12,7 @@ This project is ideal for learning JavaScript data handling, JSON parsing, and s
   <li>Displays company information</li>
   <li>Fast and responsive interface</li>
   <li>Beginner-friendly and easy to extend</li>
+  <li>Includes data of 40+ companies</li>
 </ul>
 
 <h2>Technologies Used</h2>
@@ -29,3 +30,11 @@ This project is ideal for learning JavaScript data handling, JSON parsing, and s
   <li>Building data-driven front-end projects</li>
   <li>Academic or portfolio projects</li>
 </ul>
+<h2> Conclusion</h2>
+<p>
+Complook is a project that demonstrates how real-world data
+can be managed and displayed efficiently using core web technologies. By combining
+HTML, CSS, JavaScript, and JSON, it provides a practical understanding of building
+interactive and data-driven applications without relying on external APIs.
+</p>
+
