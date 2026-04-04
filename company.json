@@ -430,6 +430,42 @@
     "state": "Oregon",
     "country": "United States",
     "description": "Nike, Inc. is a multinational corporation engaged in the design, development, manufacturing, and marketing of footwear, apparel, equipment, and accessories for sports and fitness."
+  },
+  {
+    "key": 37,
+    "company": "MEESHO",
+    "pic": "https://i.pinimg.com/736x/94/c8/7a/94c87a11fcc2b9d5ea00c7543a806fcc.jpg",
+    "industry": "E-commerce",
+    "founded": 2015,
+    "founder": "Vidit Aatrey",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "description": "Meesho is an Indian social commerce platform that enables small businesses and individuals to sell products online via social media channels."
+  },
+  {
+    "key": 38,
+    "company": "WHATSAPP",
+    "pic": "https://i.pinimg.com/1200x/39/be/3b/39be3b70473fa11f3c75a47ee86a18b1.jpg",
+    "industry": "Technology",
+    "founded": 2009,
+    "founder": "Jan Koum",
+    "city": "Menlo Park",
+    "state": "California",
+    "country": "United States",
+    "description": "WhatsApp is a messaging application that allows users to send text messages, voice messages, make calls, and share media securely using end-to-end encryption."
+  },
+  {
+    "key": 39,
+    "company": "OYO",
+    "pic": "https://i.pinimg.com/1200x/0d/09/52/0d0952f34f401cf0d3ed4f15c6a25cf5.jpg",
+    "industry": "Hospitality",
+    "founded": 2013,
+    "founder": "Ritesh Agarwal",
+    "city": "Gurugram",
+    "state": "Haryana",
+    "country": "India",
+    "description": "OYO is a global hospitality company that offers affordable and standardized hotel accommodations through its network of partner properties."
   }
 ]
 
