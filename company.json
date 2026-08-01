@@ -514,6 +514,42 @@
     "state": "California",
     "country": "United States",
     "description": "GitHub is a platform for version control and collaboration that allows developers to host, manage, and review code using Git."
+  },
+   {
+    "key": 44,
+    "company": "HP",
+    "pic": "https://i.pinimg.com/736x/d2/63/79/d2637993a5735b32f50e712c55535066.jpg",
+    "industry": "Technology",
+    "founded": 1939,
+    "founder": "Bill Hewlett",
+    "city": "Palo Alto",
+    "state": "California",
+    "country": "United States",
+    "description": "HP Inc. is an American technology company that develops personal computers, printers, related accessories, and other computing solutions."
+  },
+  {
+    "key": 45,
+    "company": "DELL",
+    "pic": "https://i.pinimg.com/736x/b4/7b/f9/b47bf96a52d11ec3325e5ff426d25348.jpg",
+    "industry": "Technology",
+    "founded": 1984,
+    "founder": "Michael Dell",
+    "city": "Round Rock",
+    "state": "Texas",
+    "country": "United States",
+    "description": "Dell Technologies is an American technology company that develops and sells personal computers, servers, data storage systems, monitors, and other technology products and services."
+  },
+  {
+    "key": 46,
+    "company": "WINDOWS",
+    "pic": "https://i.pinimg.com/736x/d2/45/cf/d245cfc057a7802a6c94dc5f433d4635.jpg",
+    "industry": "Technology",
+    "founded": 1985,
+    "founder": "Bill Gates",
+    "city": "Redmond",
+    "state": "Washington",
+    "country": "United States",
+    "description": "Microsoft Windows is a family of operating systems developed by Microsoft. It was first released in 1985 and is widely used on personal computers around the world."
   }
 ]
 
